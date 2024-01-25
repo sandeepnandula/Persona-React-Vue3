@@ -1,6 +1,8 @@
 # persona-react-vue
 
 This template should help get you started developing with Vue 3 in Vite and adding React components using `Veaury` lib.
+<img width="1626" alt="Screenshot 2024-01-26 at 12 36 10 AM" src="https://github.com/sandeepnandula/Persona-React-Vue3/assets/23185756/2f694f7c-d016-4403-8ca7-65a49ba75768">
+
 
 ## Ref guide
 https://github.com/devilwjp/veaury?tab=readme-ov-file#latest-documentation
